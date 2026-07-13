@@ -118,7 +118,7 @@
     <a href="https://www.youtube.com/@SatyamJaiswal-q4k" target="_blank">
         Subscribe
         <br><br>
-        <img src="youtube-logo-icon.webp" alt="YouTube Logo" height="60" width="60">
+        <img src="youtube-logo-icon.webp" alt="youtube-logo-icon.webp" height="60" width="60">
     </a>
 
     <h2>Student Result</h2>
