@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Random Emoji QR</title>
+
+<style>
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    background:linear-gradient(135deg,#4facfe,#00f2fe);
+    font-family:Arial,sans-serif;
+}
+
+#emoji{
+    font-size:140px;
+    animation:pop .4s ease;
+}
+
+h2{
+    color:white;
+}
+
+@keyframes pop{
+0%{transform:scale(0);}
+50%{transform:scale(1.4);}
+100%{transform:scale(1);}
+}
+</style>
+
+</head>
+
+<body>
+
+<div id="emoji">😀</div>
+<h2>🎉 आपका Lucky Emoji 🎉</h2>
+
+<script>
+
+const emojis=[
+"😀","😁","😂","🤣","😃","😄","😅","😊","😍","🥰",
+"😘","😎","🤩","🥳","🤖","👻","💀","🔥","❤️","💙",
+"💚","💛","🧡","💜","🍕","🍔","🍟","🍉","🍎","🍩",
+"🐶","🐱","🐼","🦁","🐸","🐯","⚽","🏆","🚗","🚀",
+"⭐","🌈","🎉","🎁","💎","🎵","☀️","🌙","⚡","🌹"
+];
+
+let random=Math.floor(Math.random()*emojis.length);
+
+document.getElementById("emoji").innerHTML=emojis[random];
+
+</script>
+
+</body>
+</html>
