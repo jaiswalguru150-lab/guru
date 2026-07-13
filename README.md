@@ -99,7 +99,7 @@
     <img src="WhatsApp Image.jpeg" alt="Image 2">
     <img src="guru.png (3).jpg" alt="Image 3">
     <img src="guru5 - Copy.jpeg" alt="Image 4">
-    <img src="guru6.jpeg" alt="Image 5">
+    <img src="WhatsApp Image 2026-07-09 at 19.20.41 (1).jpeg" alt="Image 5">
 
     <h3>SATYAM JAISWAL</h3>
 
