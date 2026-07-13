@@ -148,7 +148,7 @@
             <td class="fail">Fail</td>
         </tr>
     </table>
-      <a href="C:\Users\GYANODAYA\Desktop\index.html\guru7.html">
+      <a href="AB.html">
         Open QR Page
     </a
 </div>
