@@ -111,7 +111,7 @@
         YouTube Search
     </a>
 
-    <a href="AB.html">
+    <a href="guru7.html">
         Open AB Page
     </a>
 
